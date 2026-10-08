@@ -51,12 +51,7 @@ graph TD
     V --> C[🌐 Web & Cloud Platforms]
     V --> D[⚙️ Automation & Integrations]
     V --> E[🔓 Open Source]
-    V --> F[🎓 Labs & Academy]
-    A --- C
-    B --- C
-    D --- C
-    E --- F
-    F --- A
+    
 ```
 
 | Pillar | What It Covers |
@@ -70,16 +65,7 @@ graph TD
 
 ---
 
-## 🚀 Products
 
-| Product | Category | Status | Description |
-|---|---|---|---|
-| **[Product Name]** | AI | 🟢 Live | One-line description of what it does |
-| **[Product Name]** | Mobile | 🟡 Beta | One-line description of what it does |
-| **[Product Name]** | Platform | 🔵 In Development | One-line description of what it does |
-| **[Product Name]** | Open Source | 🟢 Live | One-line description of what it does |
-
----
 
 ## 🏗️ How We Work
 
